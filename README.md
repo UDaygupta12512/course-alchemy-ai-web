@@ -2,7 +2,7 @@
 
 Course Alchemy AI is an AI-powered platform that helps users discover, generate, and refine course content intelligently. It blends modern frontend design with AI capabilities to create a seamless and engaging learning experience.
 
-🌐 Live Demo: https://course-alchemy-ai.vercel.app/
+🌐 Live Demo: https://course-alchemy-ai-web.vercel.app/
 
 📦 Repository: https://github.com/UDaygupta12512/course-alchemy-ai-web
 
