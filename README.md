@@ -4,7 +4,7 @@ Course Alchemy AI is an AI-powered platform that helps users discover, generate,
 
 🌐 Live Demo: https://course-alchemy-ai.vercel.app/
 
-📦 Repository: https://github.com/UDaygupta12512/course-alchemy-ai
+📦 Repository: https://github.com/UDaygupta12512/course-alchemy-ai-web
 
 🚀 Overview
 
